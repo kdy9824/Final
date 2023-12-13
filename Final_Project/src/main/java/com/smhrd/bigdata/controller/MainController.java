@@ -13,6 +13,7 @@ public class MainController {
 		
 		return "intro";
 		
+		// 동엽 1
 	}
 
 //도훈 커밋
